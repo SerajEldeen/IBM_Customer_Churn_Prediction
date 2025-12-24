@@ -51,8 +51,7 @@ ibm-customer-churn-prediction/
 │ └── churn_model.pkl  
 │  
 ├── reports/  
-│ ├── figures/  
-│ └── results_summary.md  
+│ ├── figures/
 │  
 ├── README.md  
 └── .gitignore
